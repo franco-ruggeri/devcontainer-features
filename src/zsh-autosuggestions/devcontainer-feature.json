@@ -1,6 +1,0 @@
-{
-    "id": "zsh-autosuggestions",
-    "version": "0.0.1",
-    "name": "Zsh Autosuggestions",
-    "description": "Zsh autosuggestions without dependencies on configuration frameworks or plugin managers",
-}
