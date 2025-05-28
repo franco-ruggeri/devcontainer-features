@@ -1,5 +1,5 @@
 
-# Zsh Plugins (via apt-get) (zsh-plugins)
+# Zsh Plugins (via apt-get) (zsh-plugins-apt-get)
 
 Zsh plugins installed via apt-get (no configuration frameworks or plugin managers)
 
@@ -7,7 +7,7 @@ Zsh plugins installed via apt-get (no configuration frameworks or plugin manager
 
 ```json
 "features": {
-    "ghcr.io/franco-ruggeri/devcontainers-features/zsh-plugins:0": {}
+    "ghcr.io/franco-ruggeri/devcontainers-features/zsh-plugins-apt-get:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Zsh plugins installed via apt-get (no configuration frameworks or plugin manager
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/franco-ruggeri/devcontainers-features/blob/main/src/zsh-plugins/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/franco-ruggeri/devcontainers-features/blob/main/src/zsh-plugins-apt-get/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
