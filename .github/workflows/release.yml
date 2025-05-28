@@ -29,6 +29,6 @@ jobs:
           git config --global user.name github-actions[bot]
           git add */**/README.md
           git commit -m "docs: update documentation" || export NO_UPDATES=1
-	        if [[ -z "$NO_UPDATES" ]]; then
+          if [[ -z "$NO_UPDATES" ]]; then
             git push
           fi
