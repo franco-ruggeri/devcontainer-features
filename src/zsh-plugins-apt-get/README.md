@@ -1,7 +1,7 @@
 
 # Zsh Plugins (via apt-get) (zsh-plugins-apt-get)
 
-Zsh plugins installed via apt-get (no configuration frameworks or plugin managers)
+
 
 ## Example Usage
 
