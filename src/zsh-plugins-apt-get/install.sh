@@ -2,7 +2,7 @@
 
 set -e
 
-source /etc/os-release
+. /etc/os-release
 if [ "$ID" != "debian" ] && [ "$ID" != "ubuntu" ]; then
 	echo "Unsupported distribution "$ID". Only Debian and Ubuntu are supported."
 	exit 1
