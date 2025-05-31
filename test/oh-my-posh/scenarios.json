@@ -1,0 +1,14 @@
+{
+  "test-remote-user": {
+    "image": "ubuntu:focal",
+    "remoteUser": "coder",
+    "features": {
+      "ghcr.io/devcontainers/features/common-utils": {
+        "username": "coder",
+        "configureZshAsDefaultShell": false,
+        "installOhMyZsh": false,
+        "installOhMyZshConfig": false
+      }
+    }
+  }
+}
