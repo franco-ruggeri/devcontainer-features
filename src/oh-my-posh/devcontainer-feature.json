@@ -1,5 +1,8 @@
 {
   "id": "oh-my-posh",
   "version": "0.0.3",
-  "name": "Oh My Posh"
+  "name": "Oh My Posh",
+  "dependsOn": {
+    "ghcr.io/devcontainers-extra/features/curl-apt-get": {}
+  }
 }
