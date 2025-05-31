@@ -1,5 +1,5 @@
 {
-    "id": "zsh-plugins-apt-get",
-    "version": "0.0.2",
-    "name": "Zsh Plugins (via apt-get)",
+  "id": "zsh-plugins-apt-get",
+  "version": "0.0.3",
+  "name": "Zsh Plugins (via apt-get)"
 }
