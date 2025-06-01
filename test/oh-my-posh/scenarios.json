@@ -8,7 +8,8 @@
         "configureZshAsDefaultShell": false,
         "installOhMyZsh": false,
         "installOhMyZshConfig": false
-      }
+      },
+      "oh-my-posh": {}
     }
   }
 }
