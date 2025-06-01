@@ -6,7 +6,7 @@ think of them as reusable pieces of Dockerfile instructions.
 
 For more information, check [the official documentation](https://containers.dev/implementors/features/).
 
-This repository contains the following Features:
+This repository contains the following features:
 
 - [zsh-plugins](src/oh-my-posh)
 - [oh-my-posh](src/oh-my-posh)
