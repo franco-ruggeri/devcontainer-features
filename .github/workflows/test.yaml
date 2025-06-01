@@ -11,7 +11,7 @@ jobs:
     strategy:
       matrix:
         features:
-          - "zsh-plugins-apt-get"
+          - "zsh-plugins"
           - "oh-my-posh"
         baseImage:
           - "ubuntu:focal"
@@ -31,7 +31,7 @@ jobs:
     strategy:
       matrix:
         features:
-          - "zsh-plugins-apt-get"
+          - "zsh-plugins"
           - "oh-my-posh"
     steps:
       - name: "Checkout"
