@@ -1,7 +1,7 @@
 
 # Oh My Posh (oh-my-posh)
 
-
+Installs Oh My Posh manually, without using configuration frameworks or plugin managers.
 
 ## Example Usage
 
@@ -13,6 +13,10 @@
 
 
 
+## OS Support
+
+This feature currently supports only Debian/Ubuntu distributions. PRs are
+welcome.
 
 
 ---
