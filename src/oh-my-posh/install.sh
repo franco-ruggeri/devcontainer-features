@@ -10,4 +10,4 @@ fi
 
 apt-get update
 apt-get install -y curl unzip
-curl -s https://ohmyposh.dev/install.sh | bash -s -- -d /usr/bin
+curl -s https://ohmyposh.dev/install.sh | bash -s -- -d /usr/local/bin
