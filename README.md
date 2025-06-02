@@ -8,7 +8,7 @@ documentation](https://containers.dev/implementors/features/).
 
 This repository contains the following features:
 
-- [zsh-plugins](src/oh-my-posh)
+- [zsh-plugins](src/zsh-plugins)
 - [oh-my-posh](src/oh-my-posh)
 
 More information about each feature is available in the respective README.
