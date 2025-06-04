@@ -1,6 +1,6 @@
 {
   "id": "oh-my-posh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "Oh My Posh",
   "description": "Installs Oh My Posh manually, without using configuration frameworks or plugin managers."
 }

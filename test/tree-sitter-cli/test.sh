@@ -2,7 +2,7 @@
 
 set -e
 
-command="oh-my-posh"
+command="tree-sitter"
 if ! command -v $command >/dev/null 2>&1; then
 	echo "$command not found"
 	exit 1
