@@ -18,8 +18,6 @@ Installs Zsh autosuggestions and syntax highlighting via apt-get, without using 
 This feature currently supports only Debian/Ubuntu distributions. PRs are
 welcome.
 
-test change
-
 
 ---
 
