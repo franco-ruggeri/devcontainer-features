@@ -1,6 +1,6 @@
 {
   "id": "zsh-plugins",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "name": "Zsh Plugins",
   "description": "Installs Zsh autosuggestions and syntax highlighting via apt-get, without using configuration frameworks or plugin managers."
 }
