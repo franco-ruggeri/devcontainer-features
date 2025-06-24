@@ -1,0 +1,6 @@
+{
+  "id": "python-venv",
+  "version": "0.1.0",
+  "name": "Python Virtual Environments",
+  "description": "Installs python venv via apt-get."
+}
