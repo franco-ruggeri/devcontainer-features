@@ -1,0 +1,6 @@
+{
+  "id": "gdb",
+  "version": "0.1.0",
+  "name": "GDB",
+  "description": "Installs GDB via apt-get."
+}

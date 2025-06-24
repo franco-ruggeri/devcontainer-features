@@ -12,5 +12,6 @@ This repository contains the following features:
 - [oh-my-posh](src/oh-my-posh)
 - [tree-sitter-cli](src/tree-sitter-cli)
 - [python-venv](src/python-venv)
+- [gdb](src/gdb)
 
 More information about each feature is available in the respective README.
