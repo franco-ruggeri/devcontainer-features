@@ -1,9 +1,10 @@
 {
   "id": "tree-sitter-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "Tree-sitter CLI",
   "description": "Installs Tree-sitter CLI with npm.",
   "dependsOn": {
     "ghcr.io/devcontainers/features/node": {}
-  }
+  },
+  "installsAfter": ["ghcr.io/devcontainers/features/node"]
 }
