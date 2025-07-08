@@ -1,0 +1,6 @@
+{
+  "id": "fd",
+  "version": "0.1.0",
+  "name": "fd",
+  "description": "Installs fd via apt-get."
+}

@@ -13,5 +13,6 @@ This repository contains the following features:
 - [tree-sitter-cli](src/tree-sitter-cli)
 - [python-venv](src/python-venv)
 - [gdb](src/gdb)
+- [fd](src/fd)
 
 More information about each feature is available in the respective README.
