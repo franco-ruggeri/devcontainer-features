@@ -9,4 +9,4 @@ if [ "$ID" != "debian" ] && [ "$ID" != "ubuntu" ]; then
 fi
 
 apt-get update
-apt-get install -y fd
+apt-get install -y fd-find
