@@ -14,7 +14,7 @@ jobs:
           - "zsh-plugins"
           - "oh-my-posh"
           - "tree-sitter-cli"
-          - "python-env"
+          - "python-venv"
           - "gdb"
           - "fd"
         baseImage:
@@ -38,7 +38,7 @@ jobs:
           - "zsh-plugins"
           - "oh-my-posh"
           - "tree-sitter-cli"
-          - "python-env"
+          - "python-venv"
           - "gdb"
           - "fd"
     steps:
