@@ -1,8 +1,8 @@
 {
   "id": "aichat",
   "version": "0.1.0",
-  "name": "aichat",
-  "description": "Installs aichat via cargo.",
+  "name": "AIChat",
+  "description": "Installs AIChat, the all-in-one LLM CLI tool, via cargo.",
   "dependsOn": {
     "ghcr.io/devcontainers/features/rust": {}
   },
