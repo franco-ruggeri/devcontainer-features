@@ -14,5 +14,6 @@ This repository contains the following features:
 - [python-venv](src/python-venv)
 - [gdb](src/gdb)
 - [fd](src/fd)
+- [aichat](src/aichat)
 
 More information about each feature is available in the respective README.
