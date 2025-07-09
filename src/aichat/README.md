@@ -1,7 +1,7 @@
 
-# aichat (aichat)
+# AIChat (aichat)
 
-Installs aichat via cargo.
+Installs AIChat, the all-in-one LLM CLI tool, via cargo.
 
 ## Example Usage
 
