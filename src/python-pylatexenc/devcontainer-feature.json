@@ -1,0 +1,6 @@
+{
+  "id": "python-pylatexenc",
+  "version": "0.1.0",
+  "name": "python-pylatexenc",
+  "description": "Installs pylatexenc, a simple LaTeX parser for LaTeX-to-unicode and unicode-to-LaTeX conversions."
+}

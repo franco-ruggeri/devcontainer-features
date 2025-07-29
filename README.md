@@ -3,8 +3,8 @@
 Dev Container Features are self-contained, reusable units of installation code
 and dev container configuration that you can add to your dev container. You can
 think of them as reusable pieces of Dockerfile instructions. For more
-information, check [the official
-documentation](https://containers.dev/implementors/features/).
+information, check
+[the official documentation](https://containers.dev/implementors/features/).
 
 This repository contains the following features:
 
@@ -12,6 +12,7 @@ This repository contains the following features:
 - [oh-my-posh](src/oh-my-posh)
 - [tree-sitter-cli](src/tree-sitter-cli)
 - [python-venv](src/python-venv)
+- [python-pylatexenc](/src/python-pylatexenc)
 - [gdb](src/gdb)
 - [fd](src/fd)
 - [aichat](src/aichat)
