@@ -23,7 +23,6 @@ jobs:
           - "ubuntu:jammy"
           - "ubuntu:noble"
           - "debian:12"
-          - "debian:13"
     steps:
       - name: "Checkout"
         uses: "actions/checkout@v4"
