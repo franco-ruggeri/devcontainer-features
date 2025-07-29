@@ -20,10 +20,10 @@ jobs:
           - "fd"
           - "aichat"
         baseImage:
-          - "ubuntu:focal"
           - "ubuntu:jammy"
-          - "debian:11"
+          - "ubuntu:noble"
           - "debian:12"
+          - "debian:13"
     steps:
       - name: "Checkout"
         uses: "actions/checkout@v4"
